@@ -2,7 +2,7 @@
 # Reality,Hysteria2,Tuic-v5,juicity
 # Install
 ## Hysteria2
-Specifies the port to run. By default, only the vmess-argo protocol is used if not specified，默认argo临时隧道。
+指定端口运行,如果不指定，则默认仅使用 vmess-argo 协议，即默认 argo 临时隧道。
 
 
 ```
