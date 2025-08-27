@@ -1,8 +1,8 @@
-低内存适用
+Alpine低内存适用
 # Reality,Hysteria2,Tuic-v5,juicity
 # Install
 ## Hysteria2
-指定端口运行,如果不指定，则默认仅使用 vmess-argo 协议，即默认 argo 临时隧道。
+指定端口运行,如果不指定，则默认仅使用 vmess-argo 临时隧道协议。
 
 
 ```
