@@ -1,7 +1,7 @@
-介绍
 最好用的 Xray 一键安装脚本和管理脚本
-
-
+```
+bash <(curl -Ls https://raw.githubusercontent.com/taojin-x/jiaoben/main/install.sh)
+```
 Alpine低内存适用
 # Reality,Hysteria2,Tuic-v5,juicity
 # Install
@@ -20,5 +20,5 @@ TUIC_PORT=       bash <(curl -Ls https://raw.githubusercontent.com/taojin-x/jiao
 REALITY_PORT=    bash <(curl -Ls https://raw.githubusercontent.com/taojin-x/jiaoben/main/jiaoben.sh)
 ```
 ```
-HY2_PORT=udp端口 VMESS_PORT=tcp端口 ARGO_DOMAIN=域名 ARGO_AUTH=令牌  bash <(curl -Ls https://raw.githubusercontent.com/taojin-x/jiaoben/main/jiaoben.sh)
+HY2_PORT=udp端口 VMESS_PORT=tcp端口 ARGO_DOMAIN=域名 ARGO_AUTH=令牌 
 ```
