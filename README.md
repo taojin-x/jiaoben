@@ -4,7 +4,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/taojin-x/jiaoben/main/install.
 ```
  Alpine低内存适用
 
- Reality,Hysteria2,Tuic-v5,juicity
+ Reality、Hysteria2、Tuic-v5、juicity
  Install
 ## Hysteria2
 指定端口运行,如果不指定，则默认仅使用 vmess-argo 临时隧道协议。
